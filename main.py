@@ -59,7 +59,6 @@ def click(x, y):
     draw(x, y)
     user_click(x, y)
     state['player'] = not state['player']
-    print(board)
     win()
 
 
