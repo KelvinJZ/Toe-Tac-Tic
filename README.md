@@ -13,7 +13,8 @@ This image shows that if you click outside the board, then it will indicate that
 
 ## Features
 - Having different colors for each playing peice
-- Has the ability to switch users per clickCreated with turtle
+- Has the ability to switch users per click
+- Created with turtle
 - Hosted by replit
 
 ## Link(s)
